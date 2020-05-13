@@ -1,6 +1,12 @@
 # Chaos
 
-To be added
+Chaos is a discord bot that will convert latex commands to readable format, you could say it is a latex compiler inside of discord ;)
 
-- description
-- how to run
+## Released Beta 0.5
+
+to run modify your .env variable and then run the below commands
+
+```
+npm i
+npm start
+```
